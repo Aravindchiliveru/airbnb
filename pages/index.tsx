@@ -18,7 +18,7 @@ function Home({ exploreData, cardsData } : { exploreData : any, cardsData : any 
                 <title>Airbnb clone by Aravind</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <Header />
+            <Header placeholder={undefined} />
             <Banner />
 
             <main className='max-w-7xl mx-auto px-8 sm:px-16'>
