@@ -15,7 +15,7 @@ function Home({ exploreData, cardsData } : { exploreData : any, cardsData : any 
     return (
         <div className="">
             <Head>
-                <title>Airbnb clone by Aravind</title>
+                <title>Airbnb clone</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <Header placeholder={undefined} />
